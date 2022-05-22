@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/valve.unity
+    guid: 0be1bdd7f5b42b943ab5542d774e3233
+  - enabled: 1
+    path: Assets/scenes/parameter.unity
+    guid: 1ea9d1fb0cb7d724d9975573968d7592
